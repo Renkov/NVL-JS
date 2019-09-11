@@ -1,0 +1,6 @@
+
+var miNombre = ["Mikhail Renkov"];
+var miEdad = [24];
+var losDiasdelaSemana = ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"];
+var valorGravedad = [9];
+var losTresprimerosImpares= [1, 3, 5]
