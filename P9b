@@ -1,0 +1,8 @@
+var PrimerConcierto = ["Lunes","Madrid"];
+var SegundoConcierto = ["Martes","Sevilla"];
+var TercerConcierto = ["Miercoles","Barcelona"];
+var CuartoConcierto = ["Jueves","Valencia"];
+var QuintoConcierto = ["Viernes","Zaragoza"];
+var SextoConcierto = ["Sábado","Bilbao"];
+var SeptimoConcierto = ["Domingo","Donosti"];
+
